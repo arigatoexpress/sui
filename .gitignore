@@ -35,7 +35,8 @@ Move.lock
 .\#*
 
 # Python
-.pyc
+__pycache__/
+*.py[cod]
 
 # Node.js
 node_modules
