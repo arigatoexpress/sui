@@ -4,6 +4,8 @@
 
 # Welcome to Sui
 
+> See `AGENTS.md` for agentic navigation (notes for this fork).
+
 [Sui](https://sui.io) is a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the [Move programming language](https://github.com/MystenLabs/awesome-move).
 
 ## Sui Highlights
